@@ -4,7 +4,7 @@ This repository contains the code and selected data associated with the paper:
 
 Published in *Journal of Spatial Information Science*, [2025].  
 
-The materials here are provided to enable transparency and support the reproducibility of the analysis presented in the paper.
+The materials here are provided to enable transparency and ensure the reproducibility of the analysis presented in the article.
 
 ## Contents
 
