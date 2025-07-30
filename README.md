@@ -23,7 +23,7 @@ Please refer to comments in the scripts for detailed descriptions of each step.
 
 ## Data Availability
 
-Due to licensing and confidentiality restrictions, **some of the underlying population data and geographic shapefiles used in the analysis cannot be shared**. Only the processed output data necessary for reproducing key figures and tables in the paper are included.
+Due to licensing and confidentiality restrictions, **some of the underlying population data and geographic shapefiles used in the analysis cannot be shared**. Please check the article or the code on information on how to obtain the data. Only the processed output data necessary for reproducing key figures and tables in the paper are included. 
 
 For any questions or to request access for academic collaboration, please contact the authors.
 
